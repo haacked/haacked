@@ -5,3 +5,5 @@
 I've been doing a bit of this and that. I mostly spend my time tweeting at https://twitter.com/haacked and blogging at https://haacked.com.
 
 ![GitHub Stats for Phil](https://github-readme-stats.vercel.app/api?username=haacked&show_icons=true)
+
+<a href="https://hachyderm.io/@haacked" rel="me">I'm also on Mastodon</a>
